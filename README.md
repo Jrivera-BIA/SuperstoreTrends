@@ -1,3 +1,7 @@
-# SuperstoreTrends
-Triple Ten Tableau project on sales vs. return trends
-Discovering the root causes of returns by analyzing regional, categorical, and seasonal data
+SuperstoreTrends/
+│
+├─ data/          # optional: sample CSV or a link in README if data is from TripleTen/Kaggle
+├─ dashboards/    # .twbx/.twb or screenshots of Tableau
+├─ sql/           # any SQL you used to prep/aggregate data
+├─ assets/        # PNGs/JPGs of dashboards
+└─ README.md
