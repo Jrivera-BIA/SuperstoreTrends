@@ -38,25 +38,6 @@
    - Flagged regions/segments with above-average return rates
    - Suggested actions (quality review, policy changes, or expectation-setting)
 
----
-
-## 📊 Results (Example)
-
-- Identified **top 10 products** responsible for a large share of returns
-- Found **[segment/region]** with a return rate **X% higher** than average
-- Proposed **3 actions** to reduce return-related losses
-
-*(Fill in X, top segments, and actions based on your actual findings.)*
-
----
-
-## 📷 Dashboard Preview
-
-> Add 1–3 screenshots here, e.g.:
-
-`![Superstore Dashboard Overview](assets/superstore_dashboard_overview.png)`
-
----
 
 ## 🧪 How to View
 
